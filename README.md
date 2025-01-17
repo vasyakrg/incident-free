@@ -97,3 +97,10 @@ npm run dev
 ## Данные
 
 Все данные хранятся в файле `server/date.json`. Файл автоматически создается при первом запуске и сохраняется между перезапусками контейнера благодаря Docker volume.
+
+### Автор
+
+Yegorov Vassiliy
+
+- <https://egorovanet.ru>
+- <https://realmanual.ru>
